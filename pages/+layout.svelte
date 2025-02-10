@@ -2,9 +2,10 @@
 	import '@evidence-dev/tailwind/fonts.css';
 	import '../app.css';
 	import { EvidenceDefaultLayout } from '@evidence-dev/core-components';
+	import { base } from '$app/paths'; // Import base path
 	export let data;
 </script>
 
-<EvidenceDefaultLayout {data} logo="/image.webp" hideSidebar=true hideBreadcrumbs=true>
+<EvidenceDefaultLayout {data} logo="{base}/image.webp" hideSidebar=true hideBreadcrumbs=true hideTOC=true>
 	<slot slot="content" />
 </EvidenceDefaultLayout>
