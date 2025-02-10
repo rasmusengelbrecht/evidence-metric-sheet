@@ -5,6 +5,6 @@
 	export let data;
 </script>
 
-<EvidenceDefaultLayout {data} logo=/image.webp hideSidebar=true hideBreadcrumbs=true>
+<EvidenceDefaultLayout {data} logo=""/image.webp" hideSidebar=true hideBreadcrumbs=true>
 	<slot slot="content" />
 </EvidenceDefaultLayout>
