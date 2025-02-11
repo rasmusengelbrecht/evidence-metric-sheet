@@ -19,7 +19,7 @@ SELECT
         ROWS BETWEEN 11 PRECEDING AND CURRENT ROW
     ) AS metric_value_last_12_months
 FROM
-    csv.metric_sheet_dummy_data
+    csv_files.metric_sheet_dummy_data
 ```
 
 ---
