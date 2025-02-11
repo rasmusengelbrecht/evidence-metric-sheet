@@ -157,7 +157,7 @@ order by month desc
     title="{inputs.selected_name} per Month by Market"
     yAxisTitle="{inputs.selected_name}"
     series=market
-    chartAreaHeight=380
+    chartAreaHeight=480
     markers=true
     labels=true
 />
