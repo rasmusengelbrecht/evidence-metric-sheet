@@ -1,0 +1,226 @@
+name,month,market,metric_value
+# Monthly Active Users,2023-01-01 00:00:00,Denmark,10000
+# Monthly Active Users,2023-02-01 00:00:00,Denmark,10800
+# Monthly Active Users,2023-03-01 00:00:00,Denmark,10368
+# Monthly Active Users,2023-04-01 00:00:00,Denmark,9850
+# Monthly Active Users,2023-05-01 00:00:00,Denmark,10737
+# Monthly Active Users,2023-06-01 00:00:00,Denmark,10415
+# Monthly Active Users,2023-07-01 00:00:00,Denmark,9894
+# Monthly Active Users,2023-08-01 00:00:00,Denmark,10191
+# Monthly Active Users,2023-09-01 00:00:00,Denmark,11210
+# Monthly Active Users,2023-10-01 00:00:00,Denmark,12219
+# Monthly Active Users,2023-11-01 00:00:00,Denmark,11975
+# Monthly Active Users,2023-12-01 00:00:00,Denmark,11855
+# Monthly Active Users,2024-01-01 00:00:00,Denmark,12685
+# Monthly Active Users,2024-02-01 00:00:00,Denmark,13954
+# Monthly Active Users,2024-03-01 00:00:00,Denmark,13396
+# Monthly Active Users,2024-04-01 00:00:00,Denmark,13128
+# Monthly Active Users,2024-05-01 00:00:00,Denmark,13259
+# Monthly Active Users,2024-06-01 00:00:00,Denmark,13259
+# Monthly Active Users,2024-07-01 00:00:00,Denmark,12596
+# Monthly Active Users,2024-08-01 00:00:00,Denmark,12974
+# Monthly Active Users,2024-09-01 00:00:00,Denmark,14142
+# Monthly Active Users,2024-10-01 00:00:00,Denmark,15415
+# Monthly Active Users,2024-11-01 00:00:00,Denmark,15261
+# Monthly Active Users,2024-12-01 00:00:00,Denmark,14803
+# Monthly Active Users,2025-01-01 00:00:00,Denmark,14359
+# Monthly Active Users,2023-01-01 00:00:00,Sweden,14000
+# Monthly Active Users,2023-02-01 00:00:00,Sweden,14280
+# Monthly Active Users,2023-03-01 00:00:00,Sweden,15708
+# Monthly Active Users,2023-04-01 00:00:00,Sweden,15551
+# Monthly Active Users,2023-05-01 00:00:00,Sweden,15395
+# Monthly Active Users,2023-06-01 00:00:00,Sweden,16781
+# Monthly Active Users,2023-07-01 00:00:00,Sweden,17117
+# Monthly Active Users,2023-08-01 00:00:00,Sweden,17459
+# Monthly Active Users,2023-09-01 00:00:00,Sweden,19030
+# Monthly Active Users,2023-10-01 00:00:00,Sweden,19791
+# Monthly Active Users,2023-11-01 00:00:00,Sweden,21374
+# Monthly Active Users,2023-12-01 00:00:00,Sweden,20733
+# Monthly Active Users,2024-01-01 00:00:00,Sweden,21355
+# Monthly Active Users,2024-02-01 00:00:00,Sweden,21355
+# Monthly Active Users,2024-03-01 00:00:00,Sweden,23063
+# Monthly Active Users,2024-04-01 00:00:00,Sweden,22371
+# Monthly Active Users,2024-05-01 00:00:00,Sweden,22147
+# Monthly Active Users,2024-06-01 00:00:00,Sweden,23033
+# Monthly Active Users,2024-07-01 00:00:00,Sweden,21881
+# Monthly Active Users,2024-08-01 00:00:00,Sweden,23413
+# Monthly Active Users,2024-09-01 00:00:00,Sweden,23413
+# Monthly Active Users,2024-10-01 00:00:00,Sweden,22711
+# Monthly Active Users,2024-11-01 00:00:00,Sweden,22484
+# Monthly Active Users,2024-12-01 00:00:00,Sweden,22484
+# Monthly Active Users,2025-01-01 00:00:00,Sweden,22934
+# Monthly Active Users,2023-01-01 00:00:00,Norway,8000
+# Monthly Active Users,2023-02-01 00:00:00,Norway,8720
+# Monthly Active Users,2023-03-01 00:00:00,Norway,8458
+# Monthly Active Users,2023-04-01 00:00:00,Norway,8204
+# Monthly Active Users,2023-05-01 00:00:00,Norway,8286
+# Monthly Active Users,2023-06-01 00:00:00,Norway,8949
+# Monthly Active Users,2023-07-01 00:00:00,Norway,9754
+# Monthly Active Users,2023-08-01 00:00:00,Norway,10339
+# Monthly Active Users,2023-09-01 00:00:00,Norway,10442
+# Monthly Active Users,2023-10-01 00:00:00,Norway,9920
+# Monthly Active Users,2023-11-01 00:00:00,Norway,9424
+# Monthly Active Users,2023-12-01 00:00:00,Norway,9330
+# Monthly Active Users,2024-01-01 00:00:00,Norway,9890
+# Monthly Active Users,2024-02-01 00:00:00,Norway,10780
+# Monthly Active Users,2024-03-01 00:00:00,Norway,11427
+# Monthly Active Users,2024-04-01 00:00:00,Norway,12455
+# Monthly Active Users,2024-05-01 00:00:00,Norway,13701
+# Monthly Active Users,2024-06-01 00:00:00,Norway,13290
+# Monthly Active Users,2024-07-01 00:00:00,Norway,12891
+# Monthly Active Users,2024-08-01 00:00:00,Norway,14051
+# Monthly Active Users,2024-09-01 00:00:00,Norway,13489
+# Monthly Active Users,2024-10-01 00:00:00,Norway,14838
+# Monthly Active Users,2024-11-01 00:00:00,Norway,15432
+# Monthly Active Users,2024-12-01 00:00:00,Norway,15741
+# Monthly Active Users,2025-01-01 00:00:00,Norway,16685
+# Total Users,2023-01-01 00:00:00,Denmark,15000
+# Total Users,2023-02-01 00:00:00,Denmark,15000
+# Total Users,2023-03-01 00:00:00,Denmark,15900
+# Total Users,2023-04-01 00:00:00,Denmark,17172
+# Total Users,2023-05-01 00:00:00,Denmark,17859
+# Total Users,2023-06-01 00:00:00,Denmark,16966
+# Total Users,2023-07-01 00:00:00,Denmark,16627
+# Total Users,2023-08-01 00:00:00,Denmark,17292
+# Total Users,2023-09-01 00:00:00,Denmark,16773
+# Total Users,2023-10-01 00:00:00,Denmark,15934
+# Total Users,2023-11-01 00:00:00,Denmark,16571
+# Total Users,2023-12-01 00:00:00,Denmark,17897
+# Total Users,2024-01-01 00:00:00,Denmark,19150
+# Total Users,2024-02-01 00:00:00,Denmark,18767
+# Total Users,2024-03-01 00:00:00,Denmark,20456
+# Total Users,2024-04-01 00:00:00,Denmark,21479
+# Total Users,2024-05-01 00:00:00,Denmark,21694
+# Total Users,2024-06-01 00:00:00,Denmark,22128
+# Total Users,2024-07-01 00:00:00,Denmark,23234
+# Total Users,2024-08-01 00:00:00,Denmark,24860
+# Total Users,2024-09-01 00:00:00,Denmark,27097
+# Total Users,2024-10-01 00:00:00,Denmark,28723
+# Total Users,2024-11-01 00:00:00,Denmark,31308
+# Total Users,2024-12-01 00:00:00,Denmark,33186
+# Total Users,2025-01-01 00:00:00,Denmark,35841
+# Total Users,2023-01-01 00:00:00,Sweden,20000
+# Total Users,2023-02-01 00:00:00,Sweden,21600
+# Total Users,2023-03-01 00:00:00,Sweden,20736
+# Total Users,2023-04-01 00:00:00,Sweden,22188
+# Total Users,2023-05-01 00:00:00,Sweden,21744
+# Total Users,2023-06-01 00:00:00,Sweden,23701
+# Total Users,2023-07-01 00:00:00,Sweden,24412
+# Total Users,2023-08-01 00:00:00,Sweden,26365
+# Total Users,2023-09-01 00:00:00,Sweden,28738
+# Total Users,2023-10-01 00:00:00,Sweden,31324
+# Total Users,2023-11-01 00:00:00,Sweden,31011
+# Total Users,2023-12-01 00:00:00,Sweden,30391
+# Total Users,2024-01-01 00:00:00,Sweden,32518
+# Total Users,2024-02-01 00:00:00,Sweden,32843
+# Total Users,2024-03-01 00:00:00,Sweden,32515
+# Total Users,2024-04-01 00:00:00,Sweden,32190
+# Total Users,2024-05-01 00:00:00,Sweden,31224
+# Total Users,2024-06-01 00:00:00,Sweden,32473
+# Total Users,2024-07-01 00:00:00,Sweden,31824
+# Total Users,2024-08-01 00:00:00,Sweden,31824
+# Total Users,2024-09-01 00:00:00,Sweden,30233
+# Total Users,2024-10-01 00:00:00,Sweden,29931
+# Total Users,2024-11-01 00:00:00,Sweden,28434
+# Total Users,2024-12-01 00:00:00,Sweden,27297
+# Total Users,2025-01-01 00:00:00,Sweden,28116
+# Total Users,2023-01-01 00:00:00,Norway,11000
+# Total Users,2023-02-01 00:00:00,Norway,11220
+# Total Users,2023-03-01 00:00:00,Norway,11332
+# Total Users,2023-04-01 00:00:00,Norway,10765
+# Total Users,2023-05-01 00:00:00,Norway,11626
+# Total Users,2023-06-01 00:00:00,Norway,12440
+# Total Users,2023-07-01 00:00:00,Norway,13062
+# Total Users,2023-08-01 00:00:00,Norway,13454
+# Total Users,2023-09-01 00:00:00,Norway,14530
+# Total Users,2023-10-01 00:00:00,Norway,15257
+# Total Users,2023-11-01 00:00:00,Norway,15867
+# Total Users,2023-12-01 00:00:00,Norway,17136
+# Total Users,2024-01-01 00:00:00,Norway,18164
+# Total Users,2024-02-01 00:00:00,Norway,18709
+# Total Users,2024-03-01 00:00:00,Norway,18896
+# Total Users,2024-04-01 00:00:00,Norway,19463
+# Total Users,2024-05-01 00:00:00,Norway,20242
+# Total Users,2024-06-01 00:00:00,Norway,19837
+# Total Users,2024-07-01 00:00:00,Norway,19440
+# Total Users,2024-08-01 00:00:00,Norway,20606
+# Total Users,2024-09-01 00:00:00,Norway,20606
+# Total Users,2024-10-01 00:00:00,Norway,20400
+# Total Users,2024-11-01 00:00:00,Norway,19788
+# Total Users,2024-12-01 00:00:00,Norway,21173
+# Total Users,2025-01-01 00:00:00,Norway,22443
+Active %,2023-01-01 00:00:00,Denmark,0.6666666667
+Active %,2023-02-01 00:00:00,Denmark,0.72
+Active %,2023-03-01 00:00:00,Denmark,0.6520754717
+Active %,2023-04-01 00:00:00,Denmark,0.5736081994
+Active %,2023-05-01 00:00:00,Denmark,0.6012094742
+Active %,2023-06-01 00:00:00,Denmark,0.6138748084
+Active %,2023-07-01 00:00:00,Denmark,0.5950562338
+Active %,2023-08-01 00:00:00,Denmark,0.5893476752
+Active %,2023-09-01 00:00:00,Denmark,0.6683360162
+Active %,2023-10-01 00:00:00,Denmark,0.7668507594
+Active %,2023-11-01 00:00:00,Denmark,0.7226479995
+Active %,2023-12-01 00:00:00,Denmark,0.6624015198
+Active %,2024-01-01 00:00:00,Denmark,0.6624020888
+Active %,2024-02-01 00:00:00,Denmark,0.7435391911
+Active %,2024-03-01 00:00:00,Denmark,0.6548689871
+Active %,2024-04-01 00:00:00,Denmark,0.6112016388
+Active %,2024-05-01 00:00:00,Denmark,0.6111828155
+Active %,2024-06-01 00:00:00,Denmark,0.5991955893
+Active %,2024-07-01 00:00:00,Denmark,0.5421365241
+Active %,2024-08-01 00:00:00,Denmark,0.5218825422
+Active %,2024-09-01 00:00:00,Denmark,0.5219027937
+Active %,2024-10-01 00:00:00,Denmark,0.5366779236
+Active %,2024-11-01 00:00:00,Denmark,0.4874472978
+Active %,2024-12-01 00:00:00,Denmark,0.4460615922
+Active %,2025-01-01 00:00:00,Denmark,0.4006305628
+Active %,2023-01-01 00:00:00,Sweden,0.7
+Active %,2023-02-01 00:00:00,Sweden,0.6611111111
+Active %,2023-03-01 00:00:00,Sweden,0.7575231481
+Active %,2023-04-01 00:00:00,Sweden,0.7008743465
+Active %,2023-05-01 00:00:00,Sweden,0.7080114054
+Active %,2023-06-01 00:00:00,Sweden,0.7080291971
+Active %,2023-07-01 00:00:00,Sweden,0.701171555
+Active %,2023-08-01 00:00:00,Sweden,0.6622036791
+Active %,2023-09-01 00:00:00,Sweden,0.6621894356
+Active %,2023-10-01 00:00:00,Sweden,0.63181586
+Active %,2023-11-01 00:00:00,Sweden,0.6892393022
+Active %,2023-12-01 00:00:00,Sweden,0.6822085486
+Active %,2024-01-01 00:00:00,Sweden,0.656713205
+Active %,2024-02-01 00:00:00,Sweden,0.6502146576
+Active %,2024-03-01 00:00:00,Sweden,0.7093033984
+Active %,2024-04-01 00:00:00,Sweden,0.6949673812
+Active %,2024-05-01 00:00:00,Sweden,0.7092941327
+Active %,2024-06-01 00:00:00,Sweden,0.7092969544
+Active %,2024-07-01 00:00:00,Sweden,0.6875628457
+Active %,2024-08-01 00:00:00,Sweden,0.7357026144
+Active %,2024-09-01 00:00:00,Sweden,0.7744186816
+Active %,2024-10-01 00:00:00,Sweden,0.7587785239
+Active %,2024-11-01 00:00:00,Sweden,0.7907434761
+Active %,2024-12-01 00:00:00,Sweden,0.8236802579
+Active %,2025-01-01 00:00:00,Sweden,0.8156921326
+Active %,2023-01-01 00:00:00,Norway,0.7272727273
+Active %,2023-02-01 00:00:00,Norway,0.7771836007
+Active %,2023-03-01 00:00:00,Norway,0.7463819273
+Active %,2023-04-01 00:00:00,Norway,0.7620993962
+Active %,2023-05-01 00:00:00,Norway,0.7127128849
+Active %,2023-06-01 00:00:00,Norway,0.7193729904
+Active %,2023-07-01 00:00:00,Norway,0.7467462869
+Active %,2023-08-01 00:00:00,Norway,0.7684703434
+Active %,2023-09-01 00:00:00,Norway,0.7186510668
+Active %,2023-10-01 00:00:00,Norway,0.6501933539
+Active %,2023-11-01 00:00:00,Norway,0.5939371022
+Active %,2023-12-01 00:00:00,Norway,0.5444677871
+Active %,2024-01-01 00:00:00,Norway,0.5444835939
+Active %,2024-02-01 00:00:00,Norway,0.576193276
+Active %,2024-03-01 00:00:00,Norway,0.60473116
+Active %,2024-04-01 00:00:00,Norway,0.639932179
+Active %,2024-05-01 00:00:00,Norway,0.6768599941
+Active %,2024-06-01 00:00:00,Norway,0.6699601754
+Active %,2024-07-01 00:00:00,Norway,0.663117284
+Active %,2024-08-01 00:00:00,Norway,0.6818887703
+Active %,2024-09-01 00:00:00,Norway,0.6546151606
+Active %,2024-10-01 00:00:00,Norway,0.7273529412
+Active %,2024-11-01 00:00:00,Norway,0.7798665858
+Active %,2024-12-01 00:00:00,Norway,0.7434468427
+Active %,2025-01-01 00:00:00,Norway,0.7434389342

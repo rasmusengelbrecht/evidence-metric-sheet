@@ -9,27 +9,27 @@ theme:
   colorPalettes:
     default:
       light:
-        - "#236aa4"
-        - "#45a1bf"
-        - "#a5cdee"
-        - "#8dacbf"
-        - "#85c7c6"
-        - "#d2c6ac"
-        - "#f4b548"
-        - "#8f3d56"
-        - "#71b9f4"
-        - "#46a485"
+        - "#556b2f"  # Dark Olive Green
+        - "#6b8e23"  # Olive Drab
+        - "#8fbc8f"  # Dark Sea Green
+        - "#2e8b57"  # Sea Green
+        - "#3cb371"  # Medium Sea Green
+        - "#66cdaa"  # Medium Aquamarine
+        - "#20b2aa"  # Light Sea Green
+        - "#008b8b"  # Dark Cyan
+        - "#5f9ea0"  # Cadet Blue
+        - "#4682b4"  # Steel Blue
       dark:
-        - "#236aa4"
-        - "#45a1bf"
-        - "#a5cdee"
-        - "#8dacbf"
-        - "#85c7c6"
-        - "#d2c6ac"
-        - "#f4b548"
-        - "#8f3d56"
-        - "#71b9f4"
-        - "#46a485"
+        - "#556b2f"  # Dark Olive Green
+        - "#6b8e23"  # Olive Drab
+        - "#8fbc8f"  # Dark Sea Green
+        - "#2e8b57"  # Sea Green
+        - "#3cb371"  # Medium Sea Green
+        - "#66cdaa"  # Medium Aquamarine
+        - "#20b2aa"  # Light Sea Green
+        - "#008b8b"  # Dark Cyan
+        - "#5f9ea0"  # Cadet Blue
+        - "#4682b4"  # Steel Blue
   colorScales:
     default:
       light:
@@ -38,19 +38,19 @@ theme:
       dark:
         - "#ADD8E6"
         - "#00008B"
-  colors:
+colors:
     primary:
-      light: "#2563eb"
-      dark: "#3b82f6"
+      light: "#32cd32"  # Lime Green
+      dark: "#3cb371"  # Medium Sea Green
     accent:
-      light: "#c2410c"
-      dark: "#fdba74"
+      light: "#8fbc8f"  # Dark Sea Green
+      dark: "#556b2f"  # Dark Olive Green
     base:
-      light: "#ffffff"
-      dark: "#09090b"
+      light: "#f0fff0"  # Honeydew
+      dark: "#1a2f2f"  # Darker Slate Gray
     info:
-      light: "#0284c7"
-      dark: "#38bdf8"
+      light: "#3cb371"  # Medium Sea Green
+      dark: "#5f9ea0"  # Cadet Blue
     positive:
       light: "#16a34a"
       dark: "#4ade80"

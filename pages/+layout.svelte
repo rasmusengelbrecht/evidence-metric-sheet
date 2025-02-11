@@ -6,6 +6,6 @@
 	export let data;
 </script>
 
-<EvidenceDefaultLayout {data} logo="{base}/image.webp" hideSidebar=true hideBreadcrumbs=true hideTOC=true>
+<EvidenceDefaultLayout {data} logo="{base}/metric_sheet_logo.webp" hideSidebar=true hideBreadcrumbs=true hideTOC=true neverShowQueries=true>
 	<slot slot="content" />
 </EvidenceDefaultLayout>
