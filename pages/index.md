@@ -2,11 +2,10 @@
 title: Metric Sheet
 ---
 
-
 ```sql metrics_query
 SELECT
     name,
-    month + interval '2 hours' AS month,
+    month + interval '2 hours' AS month, -- Correcting for timezone differences
     market,
     metric_value,
     1.00 * (metric_value - LAG(metric_value) OVER (PARTITION BY name, market ORDER BY month)) / nullif(LAG(metric_value) OVER (PARTITION BY name, market ORDER BY month), 0) as mom_pct,
@@ -21,10 +20,6 @@ SELECT
 FROM
     csv_files.metric_sheet_dummy_data
 ```
-
----
-
-<br>
 
 
 ## Filters
