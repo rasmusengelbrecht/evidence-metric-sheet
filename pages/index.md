@@ -36,6 +36,7 @@ order by month desc
     name=selected_month
     value=month
     order="month asc"
+    defaultValue={months_dropdown[0].month}
 />
 
 
