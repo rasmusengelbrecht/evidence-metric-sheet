@@ -60,23 +60,6 @@ Users can filter the data dynamically using dropdowns for:
 - **Sparkline Charts:** Shows historical trends over the past 12 months.
 - **Line Charts:** Illustrates trends in selected metrics over time.
 
-## Running the Project
-
-To run this project locally:
-
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/rasmusengelbrecht/evidence-metric-sheet.git
-   ```
-2. Install Evidence:
-   ```sh
-   npm install -g @evidence-dev/cli
-   ```
-3. Navigate to the project folder and start the development server:
-   ```sh
-   evidence dev
-   ```
-4. Open your browser and go to `http://localhost:3000/`.
 
 ## Learn More
 
